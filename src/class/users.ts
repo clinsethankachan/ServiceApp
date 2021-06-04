@@ -4,5 +4,8 @@ Name:string='';
 Mobile:string='';
 Password:string='';
 Address:string='';
+Pincode:string='';
+Location:string='';
+
 
 }
